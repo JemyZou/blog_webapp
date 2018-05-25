@@ -1,0 +1,1 @@
+1.mysql驱动安装 pip3 install aiomysql 错误，更换个文件夹执行命令
